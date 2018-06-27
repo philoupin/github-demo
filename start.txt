@@ -1,5 +1,1 @@
-Test Git Quick start demö
-
-yet another change on master
-
-further change on master
+these are future changes
